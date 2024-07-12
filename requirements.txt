@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain_community
+chroma-db
+transformers
+torch
+pandas
