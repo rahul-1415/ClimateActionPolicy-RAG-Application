@@ -1,7 +1,9 @@
 streamlit
 langchain
 langchain_community
-chroma-db
+chromadb
 transformers
 torch
 pandas
+langchain_chroma
+sentence_transformers
